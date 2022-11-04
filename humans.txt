@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    shubham   tech analyst  @snj1507
 
 # THANKS
 
-    <name>
+    Thanks to the resource
 
 # TECHNOLOGY COLOPHON
 
